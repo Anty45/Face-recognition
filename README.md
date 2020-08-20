@@ -3,6 +3,7 @@
 On implémente au sein de deux notebooks des techniques de reconnaissance d'images : 
 
 * Projet de reconnaissance faciale à partir de visages propres (Eigenfaces)
+
 Papier de recherche associé  : https://arxiv.org/pdf/1705.02782.pdf
 
 * Classification d'images : A partir d'un réseau de neuronnes à convolutions, on classifie les personnes possedant un masque ou non.
